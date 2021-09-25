@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "airopa-dive-2",
+  "private_key_id": "8535b04fea9803337d587464400df779bd3b4fe8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC9hF9SzliNN1G7\ntcM7WfxVMIhHk5lFVUvAO2jtt54jNE8JdT6kk5YhAYXbLcDYxtYJTMXXDuArqgJw\nwS3d/aL9gXbqRM9FVmza/l7EhZMMeqhxIwxfzwJtK3IAXGqSDDaKM/p7obArYY6q\nYOmwW1uD2ur20iMyUXIDRNumgdWYvpa7FZWaqWdNXG46hSJpIfgvL6gDH/50VTGr\nLubK+ApfFlI1fINBFfsmWUT/MXnbOcwt1Jhtyql5Y7GaRkJk+Cf99tlh1BbcqSx2\nsxQ3cuAw4c+0TqPQweS0PJCnG8zpt0iylRxVh/lsdJxDfHiO/8o9cyb+WdVr0Ufo\nFo7yveR/AgMBAAECggEAC6twgTVSj5OF9WSKWoe+eXJtGdc1W2cWrIYb/nNNigZp\nDYCKNHEgD/U7jFUDaHXJ7TWsgwMX+6hS0SWcEOzS0gBcVa2aA7+AIXYDWN+Ov/h3\nkcviMa4aDKXdtbb7GvYkj5sGxAEfS3SM5+Hi0ei2OGbNDBjBcRJBzoC5c8XP5MFQ\nOApOn0byqN0Iq76Z9coSUeMrwpQP4xw1QA3thGwbn090LE3bX2gdF6jmJR6mhWwp\n3OQPeX/loiRzfLlHJUSA1Ki1xkn06At58aw7PmlLNxUUGX1H+thEkVeRYFQIX5a2\nT2h9FifNRygyHDdH9/jBMX5fGMgGp6bgDAme4f5YQQKBgQD+MBbts8wSa5qTpmpe\n+feunx3G+R3XPAmoprI93p3ZNeXYzBucJsfYNEmOSuGKcne2mzUdw0hcp96KjGFC\ncpUJDdQLJdFRqxTFmlZOyqCblSZLBwfD+t1H3AZT1+BeLhAbVuRVXBogWK+8/etk\nCGaCTVycJcjSx9b5Gefm6pQiQQKBgQC+3kEQaK8XCvKCALke8vQa8G5kfxe5Vgp9\nS/gajGVap2R2QVDv5129993NGK67m7fSMv8edOGS8g7Vlw9qbEWdzT427+9o3GxH\nUrmFeLaiFzGoe5TfQbBAQFXImXmepudZoSq0F7oy19q9r/06giz7zDXXwO2qAf1O\n+DLZKBbWvwKBgQDkQIa2WPftqpaZ85wdQVX6hoOUwura9dyuh1ITYK5Z+J43OcGp\nTOGz8fADSJaTXgrF/UWLPmriWRPrUfecVYwjHznD8Oev8HKsptTN2AK08w/524xL\nnh/KgXdlHrsply97fWF4jUYgucLFcTZJE4oJhDKfPQbC0BTohyzJHOh8gQKBgCbk\nTsmzKwo89tE6qH3/73GV0Ei2BPWE7Lo/QpzWQsjIFxZplL5tnJJa8V0bTG95+Wjh\nb06bbmNs40zubPu4eC8BZU34cgYh9AZMevURddVteHbmR51+WxWchl5Lt5Z2V+nR\nh0wPEafOiAni1GyZneTo5YfDDip4IU94D5RkMNMtAoGAcUhPW0594HjmnMgFVBvE\no++ZFfpFaEz0/PaJ3JXfwcSIXIzFLPPq4Dn75iB7ITvbdbGuLCgwNFR8XGXDGIQj\nSJVgt4/pnW1g7oqKdjvk59MYlSKOlRQK56wm0UoFUljnX4vs+TxKAXKbEWYLOyB0\njtfS2uM4xcl/o9cwgvPcThA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-iwvzyohqb43zdngswc9gv3-v08@airopa-dive-2.iam.gserviceaccount.com",
+  "client_id": "106797372190696452918",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-iwvzyohqb43zdngswc9gv3-v08%40airopa-dive-2.iam.gserviceaccount.com"
+}
